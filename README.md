@@ -24,4 +24,3 @@ The common prerequisite to starting the VPC specific steps is to setup the IoT P
 ## Deploying the Scenario
 * [Deploy using the CLI](CLI.md)
 * [Deploy using the UI](UI.md)
-* [Deploy using the API](API.md)
