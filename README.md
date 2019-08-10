@@ -1,4 +1,4 @@
-# IoT Application
+# Use GUI, CLI OR API to run an IoT Application in IBM Cloud VPC
 
 ## Purpose
 
